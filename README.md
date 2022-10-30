@@ -1,4 +1,4 @@
-# lesser-js-minify
+# LesserJs
 
 ## Install
 
